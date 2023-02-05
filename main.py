@@ -1,8 +1,11 @@
 from time import sleep
 print("Welcome to Pomodoro Timer.")
+work_seconds = 1500
+relax_seconds = 350
+long_break_seconds = 1800
 
 
-def work():
+def work(seconds):
     return
 
 
